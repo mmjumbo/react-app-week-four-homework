@@ -11,3 +11,4 @@ root.render(
     <App />
   </StrictMode>
 );
+<p> This project is created by Maggie Jumbo. Open-sourced on Github and hosted on Netlify. </p>
